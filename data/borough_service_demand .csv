@@ -1,0 +1,7 @@
+borough,requests_received,requests_closed,closure_rate_pct,median_resolution_hours,p90_resolution_hours
+BROOKLYN,664346,625416,94.14,2,266
+QUEENS,542685,507594,93.53,2,230
+BRONX,509805,495815,97.26,2,327
+MANHATTAN,477426,441595,92.49,1,243
+STATEN ISLAND,106767,99820,93.49,16,354
+Unspecified,15185,14449,95.15,38,339
