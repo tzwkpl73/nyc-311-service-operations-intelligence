@@ -1,4 +1,5 @@
 # NYC 311 Service Operations & Resolution Performance Intelligence
+<img width="3840" height="1971" alt="image" src="https://github.com/user-attachments/assets/4ea69034-a14d-454a-bf41-6f15fae0334f" />
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/taige.zhu1321/viz/NYC311ServiceOperationsResolutionPerformanceIntelligence/Dashboard1)
 
