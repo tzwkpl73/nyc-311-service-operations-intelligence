@@ -1,6 +1,6 @@
 # NYC 311 Service Operations & Resolution Performance Intelligence
 
-**Live dashboard:** [View on Tableau Public](PASTE_TABLEAU_PUBLIC_URL_HERE)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/taige.zhu1321/viz/NYC311ServiceOperationsResolutionPerformanceIntelligence/Dashboard1)
 
 ## Project Overview
 
